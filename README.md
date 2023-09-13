@@ -1,7 +1,6 @@
 Hi, I'm Sam!
 
-A passionate fullstack developer looking to get my first professional role.
-I'm currently learning the fundamentals of Linux and AWS, expanding my knowledge
-of Node and React, as well as learning Rust.
+A passionate fullstack developer always looking for a new challenge and experienced in JavaScript, TypeScript, Python, and Node.
+I am an archlinux enthusiast as well as a neovim addict.
 
 Connect with me on LinkedIn: https://www.linkedin.com/in/sam-h-hall-0/
